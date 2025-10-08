@@ -52,7 +52,7 @@ export async function getFarcasterManifest() {
       splashBackgroundColor: "#FFFFFF",
       webhookUrl: `${appUrl}/api/webhook`,
       // Metadata https://github.com/farcasterxyz/miniapps/discussions/191
-      subtitle: "MiniApp Farcaster en la red de celo", // 30 characters, no emojis or special characters, short description under app name
+      subtitle: "MiniApp Farcaster celo", // 30 characters, no emojis or special characters, short description under app name
       description: "MiniApp Farcaster en la red de celo", // 170 characters, no emojis or special characters, promotional message displayed on Mini App Page
       primaryCategory: "social",
       tags: ["mini-app", "celo"], // up to 5 tags, filtering/search tags
